@@ -19,7 +19,7 @@ title: ELTIQAT
 # description: Street Photography
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.eltiqat.net" # the base hostname & protocol for your site, e.g. http://example.com
-instagram_username: eltiqat
+instagram_username: ELTIQAT
 
 # Build settings
 markdown: kramdown
