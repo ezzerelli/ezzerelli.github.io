@@ -18,7 +18,7 @@ title: ELTIQAT
 # author: Moez Ezzerelli
 # description: Street Photography
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.eltiqat.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://eltiqat.net" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: ELTIQAT
 
 # Build settings
@@ -33,7 +33,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "page"
+      layout: "post"
 
 header_pages:
   - projects.md
@@ -55,3 +55,7 @@ defaults:
       path: "assets/img"
     values:
       image: true
+
+assets:
+   sources:
+       -_assets/fonts
